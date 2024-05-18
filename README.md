@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects relating to react or javascript
 - 📫 My primary contact is xerowave22@hotmail.com
 
-- ⚡ Fun fact: I am addicted to sparkling water, specifically glass bottled Topochico... i can be maniuplated easily with that.
+- ⚡ Fun fact: I am addicted to sparkling water, specifically glass bottled Topochico...
 
 <!---
 XeRoWaVe/XeRoWaVe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
